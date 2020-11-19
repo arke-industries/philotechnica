@@ -12,6 +12,4 @@ We're also a bit obsessed with hard (realistic) sci-fi. We may be a little too i
 
 We are [Arke Industries](http://arkeindustries.com). We make games people love, or at least tolerate, while killing time at school or at work. We started very young, inspired by school computer lab favorites such as Cyber Nations and NationStates. We started with The Fall (2009), followed up with Silicon Dawn (2010), and since then have made a host of smaller projects while we mourn the inevitability of death.
 
-Anyways, now we're working on a new game and Starfall is it.
-
-test
+Anyways, now we're working on a new game and Starfall is it. Bye for now.
