@@ -1,4 +1,6 @@
-# Philotechnica, a Starfall companion
+# Home
+
+## Philotechnica, a Starfall companion
 
 We're working on this game, and sometimes we need to tell you things about it.
 
