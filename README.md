@@ -1,3 +1,2 @@
 # philotechnica
-Weblag for Arke Industries stuff. MKDocs.
-dd
+Sometimes I dream about cheese.
