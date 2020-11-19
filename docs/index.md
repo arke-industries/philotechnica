@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Philotechnica, a Starfall companion
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+We're working on this game, and sometimes we need to tell you things about it.
 
-## Commands
+## Starfall
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Starfall is an upcoming sci-fi MMO4X - a game you play with everyone else online, in the browser, to expand, explore, exploit, and exterminate in the vein of the 4X greats. We're inspired by Civilization, Stellaris, Masters of Orion, Galactic Civilizations, EVE Online - and that all-time unsung hero, Space Empires IV.
 
-## Project layout
+We're also a bit obsessed with hard (realistic) sci-fi. We may be a little too in love with Atomic Rockets and Orion's Arm, which teach us how realistic science fiction can be exciting, thought-provoking, and ultimately satisfying.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Us
+
+We are [Arke Industries](http://arkeindustries.com). We make games people love, or at least tolerate, while killing time at school or at work. We started very young, inspired by school computer lab favorites such as Cyber Nations and NationStates. We started with The Fall (2009), followed up with Silicon Dawn (2010), and since then have made a host of smaller projects while we mourn the inevitability of death.
+
+Anyways, now we're working on a new game and Starfall is it.
