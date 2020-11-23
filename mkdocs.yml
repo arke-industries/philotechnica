@@ -2,3 +2,5 @@ site_name: Philotechnica
 
 theme:
   name: material
+extra:
+  disqus: ai-philotechnica
