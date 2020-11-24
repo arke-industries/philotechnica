@@ -13,7 +13,7 @@ asdf
 
 <p align="center">
   <figure>
-    <img src="/img/3.png">
+    <img src="http://arkeindustries.com/philotechnica/img/3.png">
     <figcaption>hi</figcaption>
   </figure>
 </p>
@@ -24,7 +24,7 @@ asdf
 
 <p align="center">
   <figure>
-    <img src="/img/4.png">
+    <img src="http://arkeindustries.com/philotechnica/img/4.png">
     <figcaption>hi</figcaption>
   </figure>
 </p>
@@ -42,7 +42,7 @@ asdf
 
 <p align="center">
   <figure>
-    <img src="/img/2.png">
+    <img src="http://arkeindustries.com/philotechnica/img/2.png">
     <figcaption>hi</figcaption>
   </figure>
 </p>
@@ -54,7 +54,7 @@ asdf
 
 <p align="center">
   <figure>
-    <img src="/img/1.png">
+    <img src="http://arkeindustries.com/philotechnica/img/1.png">
     <figcaption>hi</figcaption>
   </figure>
 </p>
