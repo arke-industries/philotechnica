@@ -3,26 +3,28 @@
 <p align="center">
   <figure>
     <img src="http://arkeindustries.com/philotechnica/img/6.png">
-    <figcaption>Ancient placeholder art and UI aside, it's happening!</figcaption>
+    <figcaption>Ancient placeholder art and UI aside, we have a functional game!</figcaption>
   </figure>
 </p>
 
-Starfall is an upcoming science fiction massively multiplayer 4X game played in your browser. 4X as in eXplore, eXpand, eXploit, eXterminate – games like Civilization, Master of Orion, or Stellaris focused on building an empire, gaining industry and technology, and crushing rival empires utterly. 
+Starfall is an upcoming science fiction massively multiplayer 4X game played in your browser. 4X as in eXplore, eXpand, eXploit, eXterminate – games like Civilization, Master of Orion, or Stellaris focused on building an empire, gaining industry and technology, and subjugating rival empires through diplomacy or war. 
 
-Everyone plays on the same map – no instancing or server shards. Like most strategy games, you’ll have all the tools you need to build an empire as a loner – but allies working together in Organizations can do truly incredible things on a massive scale. We expect to see empires rise and fall, grow and recede from star systems as time passes. 
+Everyone plays on the same map – no instancing or server shards. Like most strategy games, you’ll have all the tools you need to build an empire as a loner – but allies working together in Organizations can do truly incredible things on a massive scale. We expect to see player empires rise and fall, grow and recede from different star systems as time passes. 
 
-Your units and progress persist when you’re offline, so you can drop in and play whenever you please and drop out when life inevitably calls. Starfall is intended to be picked up and played when you have time and played from almost anywhere by virtue of being browser based.
+Your units and progress persist when you’re offline, so you can drop in and play whenever you please and drop out when life inevitably calls. Starfall is intended to be picked up and played when you have time and played from almost anywhere by virtue of being browser-based.
 
 There’s a lot to unpack here. Let’s start by talking about the four Xs.
 
 ## Explore
-1. **The Map.** procedural generation is for pussies, but you still need a lot of map to explore so you'll get it.
-2. **The Narrative.** it's not dust and echoes(tm), every system is packed with the good, the bad, and the ugly from the minute the first player jumps in.
+1. **The Map.** Everything happens on the map. The galaxy has many star systems, and each star system is its own sprawling map filled with things to interact with. Heavenly bodies like stars, planets, moons, asteroids, and comets all exist on the map and can be interacted with, from mining asteroids to solar power from stars. Artificial objects exist too - other players' assets, obviously, but also non-player ships and bases, wrecks and salvage, and ancient ruins to investigate and reverse-engineer. We expect to see thousands of objects in star systems, and since all of them can be depleted, stolen, or blown up, each star system will change dramatically over time as players live in them. We're not fans of procedural generation and its endless piles of same-y stuff so we're working on ways to provide truly massive amounts of interesting, unique content.
+2. **Discovery.** We don't provide maps of all the stars out there - you have to go find and explore them yourselves with FTL-equipped starships. The next star system you explore could be an unhabited cornucopia of resources, or it could turn out to be a hive of the nastiest baddies imaginable. We want to reward explorers in a variety of ways, from letting them sell exclusive starmaps of their discovered systems to letting them name heavenly bodies.
+3. **Detection.** Unlike most strategy games, information isn't free. We won't just tell you that "Drone X from Player Y appeared at coordinates (X,Y,Z)." You need passive scanners to determine what's around you and active scanners to suss out how much of a threat they are. Transponders will let you broadcast your entity to others to build trust - but when an incoming ship has its transponder off, tension rises. Is it an ambushing enemy, or a damaged ally? Time's running out to make a decision, to shoot or not to shoot, before they get too close...
+3. **The Narrative.** Every system is packed with the good, the bad, and the ugly from the minute the first player jumps in. We don't believe in static quest lines - everyone deserves a unqiue experience. Because of this, quest-givers and narrative factions live on the same map and use the same systems as players. If players band together to wipe out an NPC faction, they're dead. We want to respond to cues the players give us as far as what they want to see more of instead of interrupting their gameplay with a plotline. The narrative is also a way we can keep star systems from becoming totally settled, static, and boring - perhaps the enemies that the players drove out of Star A migrated their way to Star B to clash with the locals, or perhaps they call in reinforcements from parsecs away to try and retake Star A months down the road.
 
 ??? danger "Bullshit check!"
-    *Everybody knows that procgen makes an identical ocean of crap, but without it content creation is glacial. How are you going to get enough content?* 
+    *Everybody knows that procedural generation makes an identical ocean of crap, but without it content creation is glacial. How are you going to get enough content to meaningfully fill hundreds of star systems?* 
     
-    Thats true! We're working on ways to mitigate that. We may need to lean on a dash of procgen to keep opening up fully fleshed systems as there's need but you never go full procgen.
+    All true. We're working on ways to mitigate it which will probably be a later blog post. We may need to lean on a dash of procgen to keep opening up fully fleshed systems as there's need, but not going full procedural generation. That does lead to worlds as wide as an ocean and deep as a puddle. Ideally we'd have both - but we'll choose depth over width every time.
 
 <p align="center">
   <figure>
@@ -32,8 +34,8 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 </p>
 
 ## Expand
-1. **Exhaustable map objects.** - thousands of them to drive expansion and prevent gigaturtling. You can't just sit on a resource deposit forever, it'll run out eventually. Even gas giants, over many many many years!
-2. **Politics and Smallgangs(tm).** - you can be a loner, but friends let you hold a larger area against massive orgs. A variety of ingame org tools let you keep your line members in the core gameplay loop without spreadsheeting your org structure and responsibilities. 
+1. **Exhaustable Map Objects.** - As we said above, just about anything on the game map can be mined, stolen, or at the very least blown up. Thousands of heavenly bodies and artificial objects in each star system will encourage players to expand and prevent long-term turtling. You can't just sit on a resource deposit forever - it will run out eventually! We even track colossal objects like gas giants and stars in this way, so (with a gargantuan amount of effort and technologies) they too could be depleted.
+2. **Politics and Small Gangs™.** - You can be a loner and build and tech up on your own if you want to, but friends let you hold a larger area against massive Organizations. A variety of ingame Org tools let you keep your line members in the core gameplay loop without spreadsheeting your org structure and responsibilities. We want to encourage and reward the "small gang" concept - a small group of friends who know each other well playing Starfall together, each with their own speciality. It's our vision that while gigantic and more monolithic Organizations will fight over many star systems, a small gang of dedicated friends can at least reliably hold a planetary system on their own.
 
 <p align="center">
   <figure>
@@ -43,15 +45,15 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 </p>
 
 ## Exploit
-1. **Industry.** - fully in-universe supply chain from start to finish - that shell you shot was mined from an asteroid, refined into metals, stamped into ammunition, and loaded into your ship by real factories all in the game world. Supply chains of varying levels make industry deep enough to be a rewarding full time gig for spreadsheeters while not becoming frustrating for other player types.
-2. **Tech.** - tradeable, stealable, giftable techs both incremental and revolutionary. When your AI isn't issuing commands, it's researching, meaning AFK time isn't wasted 
-3. **Blueprints.** - like most space 4Xes, you'll eventually be able to design and build your own drones from hundreds of components
-4. **Designs.** - but UNlike most space 4Xes, we'll also give you the ability to create your own components! Want to optimize a railgun to be gigantic at the cost of all else? Or create your own brand of ship components you get credit and profit from as they corner the market? You'll be able to do it - just not at release.
+1. **Industry.** - We've built a fully in-universe supply chain from start to finish - that shell you shot from your railgun was mined from an asteroid, refined into metals, stamped into ammunition, and loaded into your ship by real factories all in the game world. Supply chains of varying levels make industry deep enough to be a rewarding full time gig for builders and traders, while not becoming frustrating for other player types. We hope to let you get as deep into industry as you want (or don't want). If crafting isn't your thing, a huge variety of player and NPC traders (NPCs who also gather materials from the game world like you do, remember) can sell you whatever you need.
+2. **Tech.** - A 4X game is nothing without the almighty tech tree. Technologies are tradeable, stealable, and giftable, covering improvements both incremental and revolutionary. To avoid new players being at an insurmountable disadvantage, we'll gradually increase the tech level of new players over time to give them a more level playing field. Finally, issuing commands and doing research both come from the same pool, which means two important things: 1) you won't be at a permanent disadvantage against players who are constantly online issuing commands, because they'll have lower research rates, and b) you're still improving and teching up when you're offline. So go ahead, take a break! 
+3. **Blueprints.** - Like most space 4Xes, you'll eventually be able to design and build your own drones from hundreds of components. This is our favorite part of games like Stellaris and Space Empires, and a good space 4X really isn't complete without it. We may not have this available at launch, but in the short term there will still be hundreds of drone blueprints to choose from.
+4. **Designs.** - but *unlike* most space 4Xes, we'll also eventually give you the ability to create your own components! Want to optimize a railgun to be gigantic at the cost of all else? Or create your own brand of ship components you get credit and profit from as they corner the market? Or have your Organization run off of a completely custom supply chain with designs you design, build, and hold the exclusive rights to? You'll be able to do it - just probably not right at release.
 
 ??? danger "Bullshit check!"
     *Custom designs and blueprints - how do I know this isn't marketing garbage?* 
     
-    Easy! The code already works this way, we just haven't enabled it. There's a ton of balance work that has to go into allowing these things fairly, so the more you help out the faster it'll arrive.
+    Easy! The code already works this way, we just haven't enabled it. There's a ton of balance and UI work that has to go into allowing these things fairly, so the more you help out the faster it'll arrive.
 
 <p align="center">
   <figure>
@@ -61,9 +63,9 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 </p>
 
 ## Exterminate
-1. **War.** - good old shells, lasers, and missiles with a variety of defenses to balance them makes pursuing a pvp meta rewarding and enables varied fleet compositions for huge fights. All drones persist on the same map 24/7 so you can come to your ally's aid or ambush prey with equal ease.
-2. **Market.** - business is just a different kind of war. Create and execute contracts to buy, sell, and share tech, resources, starmaps, and drones.
-3. **More Politics.** - orgs obviously gonna go to war all the time. Multiple org memberships for players mean Really Fun(tm) political stuff like false flagging, ROE, and collateral damage become possible.
+1. **War.** - Good old shells, lasers, and missiles with a variety of defenses to balance them makes pursuing a PVP meta rewarding and enables varied fleet compositions for huge fights. All drones persist on the same map 24/7, so you can come to your ally's aid or ambush prey with equal ease. We don't specify "battles" or "wars" in the game's code - anyone in the area can drop into a fight at any time, and there's no predetermined end to a battle - either one side is destroyed, or retreats, or the players declare a ceasefire.
+2. **Market.** - Business is just a different kind of war. You'll be able to create and execute contracts to buy, sell, and share tech, resources, starmaps, and drones. We want to reward explorers for finding new star systems, industrialists for perfecting their supply chain, and designers for perfectly tweaking their blueprints. The market is the way to go.
+3. **More Politics.** - War is the most obvious interaction between Organizations, but it's so much more than lining up and shooting one another. Contracts and custom designs let Orgs wage economic war on one another. Players can belong to multiple Orgs, which when coupled with our detection and line of sight systems means that emergent gameplay like ambushes, false flag attacks, rules of engagement, plausible deniability, and collateral damage become a reality.
 
 <p align="center">
   <figure>
@@ -73,7 +75,9 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 </p>
 
 ## It's free
-Yeah I know, F2P is garbage. But we're not really in it for the money. We've got jobs and incomes already, and a passion to make the game of our dreams. We've planned to ensure costs stay low and can come out of our pockets to a certain point. We have some thoughts on ethical monetization to pay for eventual server costs which we'll share soon (because quitting our jobs to make Starfall would be great eventually), but we're not asking for your money. We're just asking you to come and play.
+Yeah I know, free-to-play is garbage. But we're not really in it for the money. We've got jobs and incomes already, and a passion to make the game of our dreams. We've planned to ensure costs stay low and can come out of our pockets to a certain point. We have some thoughts on ethical monetization to pay for eventual server costs which we'll share soon (because quitting our jobs to make Starfall would be great eventually), but we're not asking for your money. We're just asking you to come and play.
 
 ## It's in the browser
-What is this, 2007? What are you, [Jennifer Government: NationStates](https://en.wikipedia.org/wiki/NationStates)? Wha- alright, we're starting in the browser because it's ridiculously extensible - you can play on desktop or on your phone, we can wrap it as a mobile app, Windows app, Steam game, console game, expose APIs for savvy players - shit, we could probably make it work on your smartwatch. We got our start in browser strategy games and .NET Core and HTML5 let you do some crazy shit nowadays. We even had a browser 3D client test. We can expand into many many directions, the point is that we nail the architecture first so we can deliver cool stuff for years without being solar plexus'd by legacy code. 
+What is this, 2007? What are you, [Jennifer Government: NationStates](https://en.wikipedia.org/wiki/NationStates)? Wha- alright, we're starting in the browser because it's ridiculously extensible - you can play on desktop or on your phone, we can wrap it as a mobile app, Windows app, Steam game, console game, expose APIs for savvy players - shit, we could probably make it work on your smartwatch. We got our start in browser strategy games and .NET Core and HTML5 let you do some crazy shit nowadays. We even had a browser 3D client test. We can expand into many many directions, the point is that we nail the architecture first so we can deliver cool stuff for years without being gut punched by legacy code. 
+
+We'll talk more about each of these pieces as we get closer to public alpha testing later in this accursed year of 2020. Watch this space!
