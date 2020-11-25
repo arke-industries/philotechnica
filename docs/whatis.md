@@ -19,8 +19,8 @@ asdf
 </p>
 
 ## Expand
-1. Exhaustable map objects - thousands of them to drive expansion and prevent gigaturtling. You can't just sit on a resource deposit forever, it'll run out eventually. Even gas giants, over many many many years!
-2. Politics and Smallgangs(tm) - you can be a loner, but friends let you hold a larger area against massive orgs. A variety of ingame org tools let you keep your line members in the core gameplay loop without spreadsheeting your org structure and responsibilities. 
+1. **Exhaustable map objects.** - thousands of them to drive expansion and prevent gigaturtling. You can't just sit on a resource deposit forever, it'll run out eventually. Even gas giants, over many many many years!
+2. **Politics and Smallgangs(tm).** - you can be a loner, but friends let you hold a larger area against massive orgs. A variety of ingame org tools let you keep your line members in the core gameplay loop without spreadsheeting your org structure and responsibilities. 
 
 <p align="center">
   <figure>
@@ -30,10 +30,10 @@ asdf
 </p>
 
 ## Exploit
-1. Industry - fully in-universe supply chain from start to finish - that shell you shot was mined from an asteroid, refined into metals, stamped into ammunition, and loaded into your ship by real factories all in the game world. Supply chains of varying levels make industry deep enough to be a rewarding full time gig for spreadsheeters while not becoming frustrating for other player types.
-2. Tech - tradeable, stealable, giftable techs both incremental and revolutionary. When your AI isn't issuing commands, it's researching, meaning AFK time isn't wasted 
-3. Blueprints - like most space 4Xes, you'll eventually be able to design and build your own drones from hundreds of components
-4. Designs - but UNlike most space 4Xes, we'll also give you the ability to create your own components! Want to optimize a railgun to be gigantic at the cost of all else? Or create your own brand of ship components you get credit and profit from as they corner the market? You'll be able to do it - just not at release.
+1. **Industry.** - fully in-universe supply chain from start to finish - that shell you shot was mined from an asteroid, refined into metals, stamped into ammunition, and loaded into your ship by real factories all in the game world. Supply chains of varying levels make industry deep enough to be a rewarding full time gig for spreadsheeters while not becoming frustrating for other player types.
+2. **Tech.** - tradeable, stealable, giftable techs both incremental and revolutionary. When your AI isn't issuing commands, it's researching, meaning AFK time isn't wasted 
+3. **Blueprints.** - like most space 4Xes, you'll eventually be able to design and build your own drones from hundreds of components
+4. **Designs.** - but UNlike most space 4Xes, we'll also give you the ability to create your own components! Want to optimize a railgun to be gigantic at the cost of all else? Or create your own brand of ship components you get credit and profit from as they corner the market? You'll be able to do it - just not at release.
 
 ??? danger "Bullshit check!"
     *Custom designs and blueprints - how do I know this isn't marketing garbage?* 
@@ -48,9 +48,9 @@ asdf
 </p>
 
 ## Exterminate
-1. War - good old shells, lasers, and missiles with a variety of defenses to balance them makes pursuing a pvp meta rewarding and enables varied fleet compositions for huge fights. All drones persist on the same map 24/7 so you can come to your ally's aid or ambush prey with equal ease.
-2. Market - business is just a different kind of war. Create and execute contracts to buy, sell, and share tech, resources, starmaps, and drones.
-3. More Politics - orgs obviously gonna go to war all the time. Multiple org memberships for players mean Really Fun(tm) political stuff like false flagging, ROE, and collateral damage become possible.
+1. **War.** - good old shells, lasers, and missiles with a variety of defenses to balance them makes pursuing a pvp meta rewarding and enables varied fleet compositions for huge fights. All drones persist on the same map 24/7 so you can come to your ally's aid or ambush prey with equal ease.
+2. **Market.** - business is just a different kind of war. Create and execute contracts to buy, sell, and share tech, resources, starmaps, and drones.
+3. **More Politics.** - orgs obviously gonna go to war all the time. Multiple org memberships for players mean Really Fun(tm) political stuff like false flagging, ROE, and collateral damage become possible.
 
 <p align="center">
   <figure>
