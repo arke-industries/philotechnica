@@ -9,7 +9,7 @@
 
 Starfall is an upcoming science fiction massively multiplayer 4X game played in your browser. 4X as in eXplore, eXpand, eXploit, eXterminate – games like Civilization, Master of Orion, or Stellaris focused on building an empire, gaining industry and technology, and subjugating rival empires through diplomacy or war. 
 
-Everyone plays on the same map – no instancing or server shards. Like most strategy games, you’ll have all the tools you need to build an empire as a loner – but allies working together in Organizations can do truly incredible things on a massive scale. We expect to see player empires rise and fall, grow and recede from different star systems as time passes. 
+Everyone plays on the same map – no instancing or segregating users by server. Like most strategy games, you’ll have all the tools you need to build an empire as a loner – but allies working together in Organizations can do truly incredible things on a massive scale. We expect to see player empires rise and fall, grow and recede from different star systems as time passes. 
 
 Your units and progress persist when you’re offline, so you can drop in and play whenever you please and drop out when life inevitably calls. Starfall is intended to be picked up and played when you have time and played from almost anywhere by virtue of being browser-based.
 
@@ -46,7 +46,7 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 
 ## Exploit
 1. **Industry.** - We've built a fully in-universe supply chain from start to finish - that shell you shot from your railgun was mined from an asteroid, refined into metals, stamped into ammunition, and loaded into your ship by real factories all in the game world. Supply chains of varying levels make industry deep enough to be a rewarding full time gig for builders and traders, while not becoming frustrating for other player types. We hope to let you get as deep into industry as you want (or don't want). If crafting isn't your thing, a huge variety of player and NPC traders (NPCs who also gather materials from the game world like you do, remember) can sell you whatever you need.
-2. **Tech.** - A 4X game is nothing without the almighty tech tree. Technologies are tradeable, stealable, and giftable, covering improvements both incremental and revolutionary. To avoid new players being at an insurmountable disadvantage, we'll gradually increase the tech level of new players over time to give them a more level playing field. Finally, issuing commands and doing research both come from the same pool, which means two important things: 1) you won't be at a permanent disadvantage against players who are constantly online issuing commands, because they'll have lower research rates, and b) you're still improving and teching up when you're offline. So go ahead, take a break! 
+2. **Tech.** - A 4X game is nothing without the almighty tech tree. Technologies are tradeable and giftable, covering improvements both incremental and revolutionary. To avoid new players being at an insurmountable disadvantage, we'll gradually increase the tech level of new players over time to give them a more level playing field.
 3. **Blueprints.** - Like most space 4Xes, you'll eventually be able to design and build your own drones from hundreds of components. This is our favorite part of games like Stellaris and Space Empires, and a good space 4X really isn't complete without it. We may not have this available at launch, but in the short term there will still be hundreds of drone blueprints to choose from.
 4. **Designs.** - but *unlike* most space 4Xes, we'll also eventually give you the ability to create your own components! Want to optimize a railgun to be gigantic at the cost of all else? Or create your own brand of ship components you get credit and profit from as they corner the market? Or have your Organization run off of a completely custom supply chain with designs you design, build, and hold the exclusive rights to? You'll be able to do it - just probably not right at release.
 
@@ -58,7 +58,7 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 <p align="center">
   <figure>
     <img src="http://arkeindustries.com/philotechnica/img/2.png">
-    <figcaption>Having research happen when your're offline is both good balance and part of our plan for ethical gameplay. Take breaks, kids!</figcaption>
+    <figcaption>Having research happen even when your're offline is both good balance and part of our plan for ethical gameplay. Take breaks, kids!</figcaption>
   </figure>
 </p>
 
@@ -78,6 +78,6 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 Yeah I know, free-to-play is garbage. But we're not really in it for the money. We've got jobs and incomes already, and a passion to make the game of our dreams. We've planned to ensure costs stay low and can come out of our pockets to a certain point. We have some thoughts on ethical monetization to pay for eventual server costs which we'll share soon (because quitting our jobs to make Starfall would be great eventually), but we're not asking for your money. We're just asking you to come and play.
 
 ## It's in the browser
-What is this, 2007? What are you, [Jennifer Government: NationStates](https://en.wikipedia.org/wiki/NationStates)? Wha- alright, we're starting in the browser because it's ridiculously extensible - you can play on desktop or on your phone, we can wrap it as a mobile app, Windows app, Steam game, console game, expose APIs for savvy players - shit, we could probably make it work on your smartwatch. We got our start in browser strategy games and .NET Core and HTML5 let you do some crazy shit nowadays. We even had a browser 3D client test. We can expand into many many directions, the point is that we nail the architecture first so we can deliver cool stuff for years without being gut punched by legacy code. 
+What is this, 2007? What are you, [Jennifer Government: NationStates](https://en.wikipedia.org/wiki/NationStates)? Wha- alright, we're starting in the browser because it's ridiculously extensible - you can play on desktop or on your phone, we can wrap it as a mobile app, Windows app, Steam game, console game, expose APIs for savvy players - shit, we could probably make it work on your smartwatch. We got our start in browser strategy games and modern .NET and web technologies let you do some crazy shit nowadays. We even had a browser 3D client test. We can expand into many many directions, the point is that we nail the architecture first so we can deliver cool stuff for years without being gut punched by legacy code. 
 
 We'll talk more about each of these pieces as we get closer to public alpha testing later in this accursed year of 2020. Watch this space!
