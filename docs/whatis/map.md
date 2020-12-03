@@ -5,7 +5,7 @@ Everything happens on the map. The galaxy has many star systems, and each star s
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/7.png">
+    <img src="http://arkeindustries.com/philotechnica/img/7.PNG">
     <figcaption>Ancient placeholder art and UI aside, we have a functional game!</figcaption>
   </figure>
 </p>
@@ -15,14 +15,14 @@ We don't provide maps of all the stars out there - you have to go find and explo
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/8.png">
+    <img src="http://arkeindustries.com/philotechnica/img/8.PNG">
     <figcaption>Ancient placeholder art and UI aside, we have a functional game!</figcaption>
   </figure>
 </p>
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/9.png">
+    <img src="http://arkeindustries.com/philotechnica/img/9.PNG">
     <figcaption>Ancient placeholder art and UI aside, we have a functional game!</figcaption>
   </figure>
 </p>
