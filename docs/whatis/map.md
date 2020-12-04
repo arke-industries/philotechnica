@@ -5,8 +5,8 @@ Everything happens on the map. The galaxy has many star systems, and each star s
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/7.PNG">
-    <figcaption>Ancient placeholder art and UI aside, we have a functional game!</figcaption>
+    <a href="http://arkeindustries.com/philotechnica/img/7.PNG"><img src="http://arkeindustries.com/philotechnica/img/7.PNG"></a>
+    <figcaption>You'll discover new star systems or buy starcharts from other players to expand your list of destinations.</figcaption>
   </figure>
 </p>
 
@@ -15,15 +15,15 @@ We don't provide maps of all the stars out there - you have to go find and explo
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/8.PNG">
-    <figcaption>Ancient placeholder art and UI aside, we have a functional game!</figcaption>
+    <a href="http://arkeindustries.com/philotechnica/img/8.PNG"><img src="http://arkeindustries.com/philotechnica/img/8.PNG"></a>
+    <figcaption>Each star system is a gigantic, bustling destination unto itself - even our test star system is already getting pretty busy.</figcaption>
   </figure>
 </p>
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/9.PNG">
-    <figcaption>Ancient placeholder art and UI aside, we have a functional game!</figcaption>
+    <a href="http://arkeindustries.com/philotechnica/img/9.PNG"><img src="http://arkeindustries.com/philotechnica/img/9.PNG"></a>
+    <figcaption>The UI obviously isn't nice yet, but you issue orders to your drones directly from the game map.</figcaption>
   </figure>
 </p>
 

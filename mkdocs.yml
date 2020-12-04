@@ -2,6 +2,7 @@ site_name: Philotechnica
 
 theme:
   name: material
+  font: false
 nav:
   - 'Intro': 'index.md'
   - 'What is Starfall?':
@@ -15,5 +16,4 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
 extra_css:
-  - stylesheets/admonitions.css
-  - stylesheets/page.css
+  - stylesheets/stylesheet.css

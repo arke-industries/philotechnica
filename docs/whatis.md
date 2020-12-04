@@ -80,4 +80,4 @@ Yeah I know, free-to-play is garbage. But we're not really in it for the money. 
 ## It's in the browser
 What is this, 2007? What are you, [Jennifer Government: NationStates](https://en.wikipedia.org/wiki/NationStates)? Wha- alright, we're starting in the browser because it's ridiculously extensible - you can play on desktop or on your phone, we can wrap it as a mobile app, Windows app, Steam game, console game, expose APIs for savvy players - we could probably make it work on your smartwatch. We got our start in browser strategy games and modern .NET and web technologies let you do some crazy stuff nowadays. We even had a browser 3D client test. We can expand into many many directions, the point is that we nail the architecture first so we can deliver cool stuff for years without being gut punched by legacy code. 
 
-We'll talk more about each of these pieces as we get closer to public alpha testing later in this accursed year of 2020. Watch this space!
+We'll talk more about each of these pieces as we get closer to public alpha testing later in this accursed year of 2020. Click Next below for more!
