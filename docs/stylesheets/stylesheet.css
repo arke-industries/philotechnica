@@ -1,0 +1,21 @@
+/*
+Yes officer, I have a license for this font.
+ */
+
+ @font-face {
+    font-family: 'proximanova-thin';
+    src: url('proximanova-thin-webfont.woff2') format('woff2'),
+         url('proximanova-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: proximanova-thin;
+    color: white;
+    background-color: #2b2b2b;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color--light: cyan;
+  }
