@@ -28,7 +28,7 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/3.png">
+    <img src="https://arkeindustries.com/philotechnica/img/3.png">
     <figcaption>We plan to reward both early explorers and latecomers to star systems with a variety of resources, NPCs, and missions.</figcaption>
   </figure>
 </p>
@@ -39,7 +39,7 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/4.png">
+    <img src="https://arkeindustries.com/philotechnica/img/4.png">
     <figcaption>Like most browser strategy games, a single player can do everything - but having friends means you can specialize.</figcaption>
   </figure>
 </p>
@@ -57,7 +57,7 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/2.png">
+    <img src="https://arkeindustries.com/philotechnica/img/2.png">
     <figcaption>Having research happen even when your're offline is both good balance and part of our plan for ethical gameplay. Take breaks, kids!</figcaption>
   </figure>
 </p>
@@ -69,7 +69,7 @@ There’s a lot to unpack here. Let’s start by talking about the four Xs.
 
 <p align="center">
   <figure>
-    <img src="http://arkeindustries.com/philotechnica/img/1.png">
+    <img src="https://arkeindustries.com/philotechnica/img/1.png">
     <figcaption>Whether you lead a battlegroup or a mining gang, there'll be plenty of opportunity to harvest salt.</figcaption>
   </figure>
 </p>

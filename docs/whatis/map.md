@@ -18,7 +18,7 @@ Star systems are our basic navigational unit - there are many of them in the gal
 ### Discovery
 <p align="center">
   <figure>
-    <a href="http://arkeindustries.com/philotechnica/img/7.PNG"><img width=500 src="http://arkeindustries.com/philotechnica/img/7.PNG"></a>
+    <a href="https://arkeindustries.com/philotechnica/img/7.PNG"><img width=500 src="https://arkeindustries.com/philotechnica/img/7.PNG"></a>
     <figcaption>You'll discover new star systems or buy starcharts from other players to expand your list of destinations.</figcaption>
   </figure>
 </p>
@@ -31,7 +31,7 @@ One of our central game design tenants is "information isn't free." We won't pro
 ### Star Systems
 <p align="center">
   <figure>
-    <a href="http://arkeindustries.com/philotechnica/img/8.PNG"><img src="http://arkeindustries.com/philotechnica/img/8.PNG"></a>
+    <a href="https://arkeindustries.com/philotechnica/img/8.PNG"><img src="https://arkeindustries.com/philotechnica/img/8.PNG"></a>
     <figcaption>Each star system is a gigantic, bustling destination unto itself - even our test star system is already getting pretty busy.</figcaption>
   </figure>
 </p>
@@ -47,7 +47,7 @@ Finally, some star systems will have natives to contend with. That could mean no
 ## The Action
 <p align="center">
   <figure>
-    <a href="http://arkeindustries.com/philotechnica/img/9.PNG"><img src="http://arkeindustries.com/philotechnica/img/9.PNG"></a>
+    <a href="https://arkeindustries.com/philotechnica/img/9.PNG"><img src="https://arkeindustries.com/philotechnica/img/9.PNG"></a>
     <figcaption>You'll issue orders to your drones directly from the game map.</figcaption>
   </figure>
 </p>
