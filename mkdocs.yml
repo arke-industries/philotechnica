@@ -11,6 +11,7 @@ nav:
   - 'What is Starfall?':
     - 'Overview': 'whatis.md'
     - 'The Map and Exploration': 'whatis/map.md'
+    - 'Detection and Display': 'whatis/detect.md'
   - 'Changelog': 'changelog.md'
   - 'Arke Industries': "https://arkeindustries.com/"
 markdown_extensions:
