@@ -17,8 +17,12 @@ You can equip your drones with Scanners to gather this information. Similarly, y
 
 Your drones' scanners scan every game tick. Because objects are often moving and there is an element of randomness to the calculations, your scanners may sometimes succeed and sometimes fail to resolve contacts, especially at range.
 
-[img]
-Here is an extreme example of scan results over time, caused by setting scanner efficiencies very low.
+<p align="center">
+  <figure>
+    <a href="https://arkeindustries.com/philotechnica/img/14.gif"><img width=500 src="https://arkeindustries.com/philotechnica/img/14.gif"></a>
+    <figcaption>Here is an extreme example of scan results varying over time, caused by setting scanner efficiencies very low.</figcaption>
+  </figure>
+</p>
 
 Here are the biggest factors that impact how easily your drones can be detected:
 
