@@ -30,8 +30,12 @@ Here are the biggest factors that impact how easily your drones can be detected:
 6. **Jammers**. Different types of jammers obfuscate some of these factors - heat sinks can reduce heat signatures temporarily, ECM can make EM harder to pinpoint - but none can totally hide you. As the man says, [There Ain't No Stealth In Space](http://www.projectrho.com/public_html/rocket/spacewardetect.php#id--Strategic_Combat_Sensors--There_Ain't_No_Stealth_In_Space) - but you *can* misdirect and obfuscate enough to exploit your opponent's hesitation.
 
 ## Contacts
-[img 12?]
-Here, three of our drones detect an unknown Contact to the right.
+<p align="center">
+  <figure>
+    <a href="https://arkeindustries.com/philotechnica/img/13.png"><img width=500 src="https://arkeindustries.com/philotechnica/img/13.png"></a>
+    <figcaption>Here, three of our drones detect an unknown Contact to the right.</figcaption>
+  </figure>
+</p>
 
 When you first detect other players' drones and other game objects, they'll appear as Contacts. These are sensor objects which merely tells you that *something* exists out there. These sensor objects appear on the map and give you some or all of this information when clicked:
 
@@ -43,8 +47,12 @@ When you first detect other players' drones and other game objects, they'll appe
 - **Internal components.** What can we detect on the *inside* of the drone? This is much harder and can require specialized equipment like penetrating radar.
 
 ## Designations
-[img 11]
-Here we see Enemy-marked contacts in red, Friends in blue, Suspicious in purple, and Targets in orange.
+<p align="center">
+  <figure>
+    <a href="https://arkeindustries.com/philotechnica/img/12.png"><img width=500 src="https://arkeindustries.com/philotechnica/img/12.png"></a>
+    <figcaption>Here we see Enemy-marked contacts in red, Friends in blue, Suspicious in purple, and Targets in orange.</figcaption>
+  </figure>
+</p>
 
 Because the combat picture can be nuanced, we want to give you a way to note to yourself players of interest. These designations will show on all contacts that you know they control. We're starting with these:
 
@@ -59,8 +67,12 @@ We'll likely add other types of Designations as users suggest them.
 On top of your own records about other players and their drones, you may also be in one or more Organizations of players. You may also be placed in a single Squad in your Org (more on that later). In the heat of battle, you'll need a way to easily tell who around you is in your Squad, who is merely in your Org, and who is not related to you at all.
 
 ## Combat Status
-[img 10]
-Thick dashed red lines mean that a contact was attacked recently. You can see it on our drone and the neutral contact in the top left.
+<p align="center">
+  <figure>
+    <a href="https://arkeindustries.com/philotechnica/img/10.png"><img width=500 src="https://arkeindustries.com/philotechnica/img/10.png"></a>
+    <figcaption>Thick dashed red lines mean that a contact was attacked recently. You can see it on our drone and the neutral contact in the top left.</figcaption>
+  </figure>
+</p>
 
 There's one more type of info that you'll need to know in the moment - combat action information. More specifically, you'll need to know:
 
@@ -83,11 +95,14 @@ Because we have a chunk of time between ticks (to allow us to process actions an
 
 History will show you what happened around your ships recently, up to the limit of their scanners. It replays as if you were there to witness it, but it's just a historical record.
 
-It's best seen to be explained. Here's a video of AI Arke browsing the history of his drones' sensor data for the past few game ticks:
-[embedded history poc video]
+It's best seen to be explained. Here's a video of a user browsing the history of their drones' sensor data for the past few game ticks:
+
+<p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6pvCr7Dqcug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 Keep in mind that the UI is very much a placeholder for testing. Before going live we'll want to give you something more like media player controls - stop, start, rewind, fast forward.
 
 We're still testing to see how much history we can offer players on our current level of hosting since it's very CPU and memory hungry. We want to try and keep monetization limited to things that represent big hosting or processing costs for us, so having a very long history replay may be something that costs money. More on ethical monetization later.
 
-That's all for detection and display. Next time we'll be talking about building interesting interactions with and without other players - the narrative.
+That's all for detection and display. Next time we'll be talking about building interesting interactions that happen both with and without other players - the narrative.
