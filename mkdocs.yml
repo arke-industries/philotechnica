@@ -12,6 +12,7 @@ nav:
     - 'Overview': 'whatis.md'
     - 'The Map and Exploration': 'whatis/map.md'
     - 'Detection and Display': 'whatis/detect.md'
+    - 'Narrative': 'whatis/narrative.md'
   - 'Changelog': 'changelog.md'
   - 'Arke Industries': "https://arkeindustries.com/"
 markdown_extensions:
