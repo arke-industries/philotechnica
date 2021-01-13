@@ -1,5 +1,9 @@
 # Organizations and Politics
 
-## hmm
+## Avatars
 
-aaaa
+## Squads
+
+## Organizations
+
+## Designations
