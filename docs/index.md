@@ -1,3 +1,5 @@
+> Posted 11/25/20 by AI Wizard
+
 # Home
 
 ## Philotechnica, a Starfall companion

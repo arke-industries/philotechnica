@@ -1,3 +1,5 @@
+> Posted 12/05/20 by AI Wizard
+
 # The Map and Exploration
 
 Let's dive a little deeper into the game we're building, one chunk at a time. Today we're talking about the map and how you explore it.

@@ -1,5 +1,7 @@
+> Posted 12/07/20 by AI Wizard
+
 # Detection and Display
-We push ever onward in our overview of Starfall, towards the late December playable test that is our goal. Today we're talking about detection and display on the map.
+We push ever onward in our overview of Starfall, towards the playable test that is our goal. Today we're talking about detection and display on the map.
 
 As we've said, "Information isn't free" is one of our design philosophies. Unlike most strategy games, detection isn't all-or-nothing. We've taken inspiration from real target acquisition in modern combat, where commanders have to quickly decide with limited information whether an incoming target is an enemy bomber or an off-course jetliner. You'll have to strike a balance with limited information - shoot first and potentially hit a third party, or wait for confirmation and risk being struck hard.
 

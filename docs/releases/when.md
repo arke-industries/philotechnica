@@ -1,3 +1,5 @@
+> Posted 12/21/20 by AI Wizard
+
 # Release Progress
 We're approaching the completion of our internal feature-complete build, OMEGA (Ω)! Here's how we're getting from where we are now to a playable version of Starfall.
 

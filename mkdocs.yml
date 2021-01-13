@@ -13,6 +13,7 @@ nav:
     - 'The Map and Exploration': 'whatis/map.md'
     - 'Detection and Display': 'whatis/detect.md'
     - 'Narrative': 'whatis/narrative.md'
+    - 'Players and Organization': 'whatis/orgs.md'
   - 'Release Progress': 'releases/when.md'
   - 'Changelog': 'changelog.md'
   - 'Arke Industries': "https://arkeindustries.com/"

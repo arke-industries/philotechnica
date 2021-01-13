@@ -1,3 +1,5 @@
+> Posted 12/08/20 by AI Wizard
+
 # The Narrative
 In Starfall, you are an [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) - an artilect, or aiont, or aio. You experience the universe through the drones you create and control to fulfill certain functions, from exploration to industry to combat. Following the bloody Wars of Enfranchisement, you and your peers are exiled to a remote arm of the galaxy to begin anew. There's a colossal amount to uncover and learn about your surroundings, your history, and the big unanswered questions of the narrative that runs throughout Starfall.
 
