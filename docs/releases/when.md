@@ -11,7 +11,7 @@ To avoid this, we're taking the exact opposite approach. We don't know precisely
 With that in mind, let's talk about our first "release" - Omega.
 
 ## Omega Release (Ω)
-OMEGA (Ω) is our first release and will not be open to any players. This is because has absolutely no polish (for example, there's no attack button - you have to input attacker ID, weapon ID, and target ID into a form) so it's not at all enjoyable to play and difficult to test. Omega is on this list because it marks feature completion internally for us as a milestone and sets us on the road to launch. We hope to have Omega complete by December 28th.
+OMEGA (Ω) is our first release and will not be open to any players. This is because has absolutely no polish (for example, there's no attack button - you have to input attacker ID, weapon ID, and target ID into a form) so it's not at all enjoyable to play and difficult to test. Omega is on this list because it marks feature completion internally for us as a milestone and sets us on the road to launch. Omega was completed on December 22nd, 2020! (Check out the release notes here.) We verified feature completeness internally, which lets us move on to PSI.
 
 ## Psi Release (ψ)
 PSI (ψ) is the next release and first playable release. It will include the user interface and quality of life work you need to actually be able to play it. Psi will be open to folks on the Arke Industries Discord server for the purposes of testing. Major pieces of work to get Psi out the door will be UI work, major refactoring for performance, and filling out the tech tree, recipes, components and industrial processes to give you content to play with. We're targeting release of ψ sometime in January and will give you more updates as we get closer.

@@ -16,11 +16,19 @@ Today it's time to talk about how players organize themselves. We know from our 
 
 ## Avatars
 
-- you, kinda
-- analagous to characters
-- we'll start you with one, but eventually let players acquire multiple
-- can be account-bound (personal) or organization-bound (communal)
-- can join squads or orgs
+**Factsheet: Avatars**
+
+- Analogous to characters
+- Owns physical assets (like drones) and intangible assets (like tech)
+- Can join Squads or Orgs
+- Can be account-bound (personal) or Organization-bound (communal)
+- Accounts start with one, may offer more later
+
+In most games, you are your account - an identity intrinsically tied forever to your account ID and usually publicly exposed. Since one of Starfall's core design tenants is "information isn't free," this didn't make much sense for us. We wanted to pursue something more like the character model seen in many MMORPGs, where you interact with the world through a character and the account is more in the background.
+
+You can consider Avatars the equivalent of characters. You'll give orders through your active Avatar. Avatars own the physical assets that exist on the map (which we've talked about before), and they also hold intangible things like unlocked technologies, designations, and squad and org memberships. Avatars can't be destroyed - if all of your physical assets are destroyed, the avatar will be granted some starting equipment to start over. Starting over isn't a death sentence, though - the fact that Avatars remember the techs they've unlocked means that your second (or third, or fourth) try will be exponentially faster than your first.
+
+One of the advantages of using Avatars instead of accounts is that we don't have to limit this functionality to individual players. We can have players impersonate (play the game as) another Avatar. Organizations can create Avatars that are bound to that Org, and allow certain Squads the ability to use that Avatar. This makes things like centralized military forces possible, control of which can be delegated to authorized players via the ability to use their Avatar. 
 
 ## Squads
 
