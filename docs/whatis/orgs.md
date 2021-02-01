@@ -1,4 +1,4 @@
-> Posted 01/12/21 by AI Wizard
+> Posted 02/01/21 by AI Wizard
 
 # Players and Organization
 
@@ -39,11 +39,31 @@ One of the advantages of using Avatars instead of accounts is that we don't have
 - Can join Orgs or act independently
 - Only join a Squad composed of Avatars you trust, preferably a group of IRL friends
 
+We have years of fond memories of LAN parties and tight-knit gaming clans in the 2000s, and in the browser gaming world this held true too. Groups of friends or classmates would play the classic browser games like CyberNations and Nationstates together. In the former you'd even have someone "nation-sit" while you were away for a long period of time, collecting resources and defending your nation so you'd actually have something to return to.
+
+This is where our idea of the Squad came from. A Squad should be made up of a single-digit number of close-knit players to help them play better together. They're able to help each other out with common permissions, such as the ability to repair each others' drones without restriction, share line-of-sight, and add or remove cargo. That means that being offline in hostile territory isn't a death sentence - your squadmates have your back.
+
+You also know where your squadmates are at all times and what they're doing to faciliate cooperation. Because of this, we envision that most Squads will be made of players who know each other outside of Starfall and can trust each other. Information, after all, is power.
+
+We wanted to carve out a space in player organization between totally solo and in (potentially) gigantic, impersonal alliances, and make sure that space is respected. Squads don't have to dissolve if their members decide that a larger Organization is right for them, either - a Squad can join or leave an Organization without impacting its structure.
+
 ## Organizations
 
 **Factsheet: Organizations**
 
 - Large player organizations composed of both Avatars and Squads
 - Avatars can join multiple Organizations
+- Offices determine how permissions are spread among Avatars
 - Can create Avatars bound to that org (instead of to a player account) to control org assets like fleets
 - Can designate Squads to have permission to use Org-bound avatars
+
+Finally, we have the large player organizations. We've seen players run large player orgs like corporations in other MMOs, in some cases even having whole IT departments running sites and services specifically for the players' benefit and organization. We wanted to give Orgs the ability to self-structure.
+
+As mentioned above, both Avatars and Squads can join player Organizations. Players in an Org can also use Squads to structure themselves inside that Org - the command squad, the industry squad, combat squads, and so on. There are two permutations of this model specific to Organizations which extend their ability to organize:
+
+1. Organizations can create Avatars which are bound to that Org (versus account-bound). These Avatars can serve as loci of control for Organization assets without them being owned by a player. Org fleets and holdings can remain neatly bound to that Avatar, and permission to use that avatar can be granted by the Org to specific squad(s) as needed. This ensures that, for example, a player "admiral" can easily step into an Org fleet to use it without personally owning those drones - and the Org can also revoke the admiral's access if they go rogue.
+2. Organizations can create Offices held by specific Avatars. Offices have certain sets of Org permissions (like create/delete Org-bound Avatars, accept or reject new members, change join policy to open/invite/closed), and granting an Office to an Avatar grants them its powers. These can be used traditionally for roles like President, CEO, or Admiral, or in more novel fashions - for example, you could give every player in your Org the power to rename the Org. It'd be a bad idea, but you could!
+
+Finally, unlike traditional player organizations in MMOGs, there is no limit on the amount of Organizations you can join. You needn't tie yourself to one player entity for all time - you could join a defense pact Org for military matters, a trade association Org for contracts, and a political Org for political affairs. We're not quite sure how this will play out on the UI yet, but we're very adamant about allowing this.
+
+That's all for player organization. Join us next time when we talk about the cornerstone of player industry - Recipes!
