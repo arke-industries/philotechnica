@@ -32,16 +32,18 @@ One of the advantages of using Avatars instead of accounts is that we don't have
 
 ## Squads
 
-- small, tight-knit units
-- preferably, a group of friends
-- share all permissions like allow repair, allow cargo add/remove, sensor data sharing
-- can join orgs or act independently
-- only for a group of avatars you trust
+**Factsheet: Squads**
+
+- Small, tight-knit units composed of Avatars
+- Share common permissions to each others' drones like add/remove cargo, sensor data, allow repair
+- Can join Orgs or act independently
+- Only join a Squad composed of Avatars you trust, preferably a group of IRL friends
 
 ## Organizations
 
-- large player organizations
-- avatars can join multiple (jury's out on how to UI this well)
-- can have squads, avatars, or both as members
-- can create avatars bound to that org
-- can designate squads to have permissions to use bound avatars. if the org is the United Federation of Planets and the squad is Starfleet, the avatar would be the Second Fleet - one controller for a bunch of drones that squad members could hop in to control as needed.
+**Factsheet: Organizations**
+
+- Large player organizations composed of both Avatars and Squads
+- Avatars can join multiple Organizations
+- Can create Avatars bound to that org (instead of to a player account) to control org assets like fleets
+- Can designate Squads to have permission to use Org-bound avatars
