@@ -6,10 +6,28 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Source Code Pro Regular';
+    src: url('SourceCodePro-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Squarish Sans CT';
+    src: url('Squarish Sans CT Regular SC.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-    font-family: proximanova-thin;
+    font-family: "Source Code Pro Regular", "Segoe UI", "Open Sans Light", "Candara", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", "Verdana", "Arial", "sans-serif";
     color: white;
     background-color: #2b2b2b;
+}
+
+h1, h2, h3, h4, header {
+    font-family: "Squarish Sans CT", "Segoe UI", "Open Sans Light", "Candara", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", "Verdana", "Arial", "sans-serif";
 }
 
 [data-md-color-scheme="slate"] {

@@ -1,4 +1,4 @@
-site_name: Philotechnica
+site_name: PHILOTECHNICA
 
 theme:
   name: material
@@ -14,6 +14,7 @@ nav:
     - 'Detection and Display': 'whatis/detect.md'
     - 'Narrative': 'whatis/narrative.md'
     - 'Players and Organization': 'whatis/orgs.md'
+    - 'Recipes and Industry': 'whatis/recipes.md'
   - 'Release Progress': 'releases/when.md'
   - 'Changelog': 'changelog.md'
   - 'Arke Industries': "https://arkeindustries.com/"
