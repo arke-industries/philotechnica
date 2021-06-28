@@ -1,4 +1,6 @@
 site_name: PHILOTECHNICA
+site_description: The blog for Starfall, the MMO4X by Arke Industries.
+site_url: https://arkeindustries.com/philotechnica
 
 theme:
   name: material
@@ -25,3 +27,5 @@ markdown_extensions:
   - attr_list
 extra_css:
   - stylesheets/stylesheet.css
+plugins:
+  - rss
